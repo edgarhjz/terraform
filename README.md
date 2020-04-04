@@ -1,2 +1,2 @@
-# terraform
+# Terraform
 Deploying Infrastructure with Terraform
